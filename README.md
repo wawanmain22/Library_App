@@ -14,13 +14,13 @@ Aplikasi manajemen perpustakaan sederhana yang dibangun dengan Laravel.
 ### 1. Clone Repository
 
 ```git
-git clone <url-repository-anda>
+git clone https://github.com/wawanmain22/Library_App.git
 ```
 
 ### 2. Instalasi Dependencies
 
 ```bash
-cd nama-folder-project
+cd Library_App
 composer install
 npm install
 ```
@@ -90,5 +90,5 @@ php artisan cache:clear
 ## 📄 Lisensi
 
 Aplikasi ini berlisensi di bawah [MIT License](LICENSE).
-```
+
 
